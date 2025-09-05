@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"iuh.fit.se","c":"TestRectangle","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"iuh.fit.se","c":"TestRectangle","l":"TestRectangle()","u":"%3Cinit%3E()"}];updateSearchResults();
